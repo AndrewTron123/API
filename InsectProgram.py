@@ -3,6 +3,9 @@ import InsectClass as i
 def main():
     housefly = i.Insect()
     mosquito = i.Insect()
+    
+
+
 
     housefly.calc_flight()
     mosquito.calc_flight()
